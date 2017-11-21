@@ -1,0 +1,12 @@
+@menu
+@bet
+@autoBet
+@raceTrack
+@favourites
+@pattern
+@goldenChip
+@quickDeposit
+@removeChip
+@undoLastAction
+@repeatBet
+@doubleUpBet

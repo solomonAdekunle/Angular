@@ -1,0 +1,12 @@
+{
+  "node": true,
+  "esversion": 6,
+  "browser": false,
+
+  "globals": {
+    "element": false,
+    "by": false,
+    "$": false,
+    "$$": false
+  }
+}
